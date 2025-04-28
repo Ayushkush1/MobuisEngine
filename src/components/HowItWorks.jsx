@@ -23,6 +23,7 @@ const HowItWorks = () => {
   return (
     <section className="py-32" id="how-it-works">
       <div className="container-custom lg:max-w-[1500px] lg:px-[13rem] flex flex-col justify-center items">
+        
         <motion.h2 
           className="text-3xl font-medium text-[#0649E7] mb-20 md:text-start text-center"
           initial={{ opacity: 0, y: 20 }}
