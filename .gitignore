@@ -1,4 +1,5 @@
 # ... existing gitignore entries ...
 README.md
-#... new gitignore entries...
 dist
+node_modules
+package-lock.json
